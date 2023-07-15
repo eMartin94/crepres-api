@@ -1,0 +1,119 @@
+{
+  "crepes": [
+    {
+      "id": 1,
+      "nombre": "Crepes de Nutella",
+      "descripcion": "Deliciosos crepes rellenos de Nutella.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Nutella"]
+    },
+    {
+      "id": 2,
+      "nombre": "Crepes de Chocolate",
+      "descripcion": "Deliciosos crepes rellenos de Chocolate.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Chocolate"]
+    },
+    {
+      "id": 3,
+      "nombre": "Crepes de Vainilla",
+      "descripcion": "Deliciosos crepes rellenos de Vainilla.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Vainilla"]
+    },
+    {
+      "id": 4,
+      "nombre": "Crepes de Fresa",
+      "descripcion": "Deliciosos crepes rellenos de Fresa.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Fresa"]
+    },
+    {
+      "id": 5,
+      "nombre": "Crepes de Manzana",
+      "descripcion": "Deliciosos crepes rellenos de Manzana.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Manzana"]
+    },
+    {
+      "id": 6,
+      "nombre": "Crepes de Pina",
+      "descripcion": "Deliciosos crepes rellenos de Pina.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Pina"]
+    },
+    {
+      "id": 7,
+      "nombre": "Crepes de Naranja",
+      "descripcion": "Deliciosos crepes rellenos de Naranja.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Naranja"]
+    },
+    {
+      "id": 8,
+      "nombre": "Crepes de Durazno",
+      "descripcion": "Deliciosos crepes rellenos de Durazno.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Durazno"]
+    },
+    {
+      "id": 9,
+      "nombre": "Crepes de Platano",
+      "descripcion": "Deliciosos crepes rellenos de Platano.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Platano"]
+    },
+    {
+      "id": 10,
+      "nombre": "Crepes de Pistacho",
+      "descripcion": "Deliciosos crepes rellenos de Pistacho.",
+      "precio": 5.99,
+      "ingredientes": ["Crepes", "Pistacho"]
+    }
+  ],
+
+  "helados": [
+    {
+      "id": 1,
+      "nombre": "Helado de Vainilla",
+      "descripcion": "Helado cremoso de vainilla.",
+      "precio": 3.99,
+      "ingredientes": ["Leche", "Azúcar", "Vainilla"]
+    },
+    {
+      "id": 2,
+      "nombre": "Helado de Chocolate",
+      "descripcion": "Helado cremoso de chocolate.",
+      "precio": 3.99,
+      "ingredientes": ["Leche", "Azúcar", "Chocolate"]
+    },
+    {
+      "id": 3,
+      "nombre": "Helado de Fresa",
+      "descripcion": "Helado cremoso de fresa.",
+      "precio": 3.99,
+      "ingredientes": ["Leche", "Azúcar", "Fresa"]
+    },
+    {
+      "id": 4,
+      "nombre": "Helado de Manzana",
+      "descripcion": "Helado cremoso de manzana.",
+      "precio": 3.99,
+      "ingredientes": ["Leche", "Azúcar", "Manzana"]
+    },
+    {
+      "id": 5,
+      "nombre": "Helado de Naranja",
+      "descripcion": "Helado cremoso de naranja.",
+      "precio": 3.99,
+      "ingredientes": ["Leche", "Azúcar", "Naranja"]
+    },
+    {
+      "id": 6,
+      "nombre": "Helado Combinado",
+      "descripcion": "Helado combinado de Chocolate y Vainilla.",
+      "precio": 4.99,
+      "ingredientes": ["Leche", "Azúcar", "Chocolate", "Vainilla"]
+    }
+  ]
+}
