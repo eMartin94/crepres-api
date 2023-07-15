@@ -115,5 +115,81 @@
       "precio": 4.99,
       "ingredientes": ["Leche", "Azúcar", "Chocolate", "Vainilla"]
     }
+  ],
+
+  "bebidas": [
+    {
+      "id": 1,
+      "nombre": "Batido de Fresa",
+      "descripcion": "Refrescante batido de fresa.",
+      "precio": 4.49,
+      "ingredientes": ["Fresas", "Leche", "Azúcar"]
+    },
+    {
+      "id": 2,
+      "nombre": "Batido de Manzana",
+      "descripcion": "Refrescante batido de manzana.",
+      "precio": 4.49,
+      "ingredientes": ["Manzanas", "Leche", "Azúcar"]
+    },
+    {
+      "id": 3,
+      "nombre": "Bubble Tea Taro ",
+      "descripcion": "Bebida refrescante la raíz de taro morado.",
+      "precio": 4.49,
+      "ingredientes": ["Taro", "Leche", "Azúcar"]
+    },
+    {
+      "id": 4,
+      "nombre": "Bubble Tea Chocolate",
+      "descripcion": "Bebida refrescante con sabor a chocolate.",
+      "precio": 4.49,
+      "ingredientes": [
+        "Chocolate",
+        "Leche",
+        "Azúcar",
+        "Perlas de tapioca (opcional)"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Bubble Tea Mango",
+      "descripcion": "Bebida refrescante con pulpa de mango.",
+      "precio": 4.49,
+      "ingredientes": ["Mango", "Leche", "Azúcar"]
+    },
+    {
+      "id": 6,
+      "nombre": "Bubble Tea Melón",
+      "descripcion": "Bebida refrescante con pulpa de melón.",
+      "precio": 4.49,
+      "ingredientes": ["Melón", "Leche", "Azúcar"]
+    },
+    {
+      "id": 6,
+      "nombre": "Bubble Tea Fresa",
+      "descripcion": "Bebida refrescante con pulpa de fresa.",
+      "precio": 4.49,
+      "ingredientes": ["Fresa", "Leche", "Azúcar"]
+    },
+    {
+      "id": 7,
+      "nombre": "Bubble Tea Coco",
+      "descripcion": "Bebida refrescante con pulpa de coco.",
+      "precio": 4.49,
+      "ingredientes": ["Coco", "Leche", "Azúcar"]
+    },
+    {
+      "id": 8,
+      "nombre": "Bubble Tea Matcha",
+      "descripcion": "Bebida refrescante con sabor a té verde en polvo con un ligero amargor y un toque de dulzura.",
+      "precio": 4.49,
+      "ingredientes": [
+        "Polvo de matcha",
+        "Leche o té verde",
+        "Jarabe de azúcar o miel (opcional)",
+        "Perlas de tapioca (opcional)"
+      ]
+    }
   ]
 }
