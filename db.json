@@ -181,14 +181,6 @@
     },
     {
       "id": 6,
-      "nombre": "Bubble Tea Melón",
-      "descripcion": "Bebida refrescante con pulpa de melón.",
-      "precio": 4.49,
-      "ingredientes": ["Melón", "Leche", "Azúcar"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
-    },
-    {
-      "id": 6,
       "nombre": "Bubble Tea Fresa",
       "descripcion": "Bebida refrescante con pulpa de fresa.",
       "precio": 4.49,
@@ -214,6 +206,14 @@
         "Jarabe de azúcar o miel (opcional)",
         "Perlas de tapioca (opcional)"
       ],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Bubble Tea Melón",
+      "descripcion": "Bebida refrescante con pulpa de melón.",
+      "precio": 4.49,
+      "ingredientes": ["Melón", "Leche", "Azúcar"],
       "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     }
   ]
