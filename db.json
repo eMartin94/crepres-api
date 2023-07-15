@@ -5,70 +5,80 @@
       "nombre": "Crepes de Nutella",
       "descripcion": "Deliciosos crepes rellenos de Nutella.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Nutella"]
+      "ingredientes": ["Crepes", "Nutella"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe1_w6sw6i.webp"
     },
     {
       "id": 2,
       "nombre": "Crepes de Chocolate",
       "descripcion": "Deliciosos crepes rellenos de Chocolate.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Chocolate"]
+      "ingredientes": ["Crepes", "Chocolate"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe2_ekfkrk.webp"
     },
     {
       "id": 3,
       "nombre": "Crepes de Vainilla",
       "descripcion": "Deliciosos crepes rellenos de Vainilla.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Vainilla"]
+      "ingredientes": ["Crepes", "Vainilla"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe3_nvofsh.webp"
     },
     {
       "id": 4,
       "nombre": "Crepes de Fresa",
       "descripcion": "Deliciosos crepes rellenos de Fresa.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Fresa"]
+      "ingredientes": ["Crepes", "Fresa"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 5,
       "nombre": "Crepes de Manzana",
       "descripcion": "Deliciosos crepes rellenos de Manzana.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Manzana"]
+      "ingredientes": ["Crepes", "Manzana"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 6,
       "nombre": "Crepes de Pina",
       "descripcion": "Deliciosos crepes rellenos de Pina.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Pina"]
+      "ingredientes": ["Crepes", "Pina"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 7,
       "nombre": "Crepes de Naranja",
       "descripcion": "Deliciosos crepes rellenos de Naranja.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Naranja"]
+      "ingredientes": ["Crepes", "Naranja"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 8,
       "nombre": "Crepes de Durazno",
       "descripcion": "Deliciosos crepes rellenos de Durazno.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Durazno"]
+      "ingredientes": ["Crepes", "Durazno"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 9,
       "nombre": "Crepes de Platano",
       "descripcion": "Deliciosos crepes rellenos de Platano.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Platano"]
+      "ingredientes": ["Crepes", "Platano"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     },
     {
       "id": 10,
       "nombre": "Crepes de Pistacho",
       "descripcion": "Deliciosos crepes rellenos de Pistacho.",
       "precio": 5.99,
-      "ingredientes": ["Crepes", "Pistacho"]
+      "ingredientes": ["Crepes", "Pistacho"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
     }
   ],
 
@@ -78,42 +88,48 @@
       "nombre": "Helado de Vainilla",
       "descripcion": "Helado cremoso de vainilla.",
       "precio": 3.99,
-      "ingredientes": ["Leche", "Azúcar", "Vainilla"]
+      "ingredientes": ["Leche", "Azúcar", "Vainilla"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado6_ljmawe.webp"
     },
     {
       "id": 2,
       "nombre": "Helado de Chocolate",
       "descripcion": "Helado cremoso de chocolate.",
       "precio": 3.99,
-      "ingredientes": ["Leche", "Azúcar", "Chocolate"]
+      "ingredientes": ["Leche", "Azúcar", "Chocolate"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado3_barrzp.webp"
     },
     {
       "id": 3,
       "nombre": "Helado de Fresa",
       "descripcion": "Helado cremoso de fresa.",
       "precio": 3.99,
-      "ingredientes": ["Leche", "Azúcar", "Fresa"]
+      "ingredientes": ["Leche", "Azúcar", "Fresa"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado1_ax9s39.webp"
     },
     {
       "id": 4,
       "nombre": "Helado de Manzana",
       "descripcion": "Helado cremoso de manzana.",
       "precio": 3.99,
-      "ingredientes": ["Leche", "Azúcar", "Manzana"]
+      "ingredientes": ["Leche", "Azúcar", "Manzana"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado4_ibuzc3.webp"
     },
     {
       "id": 5,
       "nombre": "Helado de Naranja",
       "descripcion": "Helado cremoso de naranja.",
       "precio": 3.99,
-      "ingredientes": ["Leche", "Azúcar", "Naranja"]
+      "ingredientes": ["Leche", "Azúcar", "Naranja"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado5_ihjqrw.webp"
     },
     {
       "id": 6,
       "nombre": "Helado Combinado",
       "descripcion": "Helado combinado de Chocolate y Vainilla.",
       "precio": 4.99,
-      "ingredientes": ["Leche", "Azúcar", "Chocolate", "Vainilla"]
+      "ingredientes": ["Leche", "Azúcar", "Chocolate", "Vainilla"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405940/crepes/helados/helado2_tgi4c7.webp"
     }
   ],
 
@@ -123,21 +139,24 @@
       "nombre": "Batido de Fresa",
       "descripcion": "Refrescante batido de fresa.",
       "precio": 4.49,
-      "ingredientes": ["Fresas", "Leche", "Azúcar"]
+      "ingredientes": ["Fresas", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida5_xerhw2.webp"
     },
     {
       "id": 2,
       "nombre": "Batido de Manzana",
       "descripcion": "Refrescante batido de manzana.",
       "precio": 4.49,
-      "ingredientes": ["Manzanas", "Leche", "Azúcar"]
+      "ingredientes": ["Manzanas", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida2_teujvb.webp"
     },
     {
       "id": 3,
       "nombre": "Bubble Tea Taro ",
       "descripcion": "Bebida refrescante la raíz de taro morado.",
       "precio": 4.49,
-      "ingredientes": ["Taro", "Leche", "Azúcar"]
+      "ingredientes": ["Taro", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     },
     {
       "id": 4,
@@ -149,35 +168,40 @@
         "Leche",
         "Azúcar",
         "Perlas de tapioca (opcional)"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida3_qavax2.webp"
     },
     {
       "id": 5,
       "nombre": "Bubble Tea Mango",
       "descripcion": "Bebida refrescante con pulpa de mango.",
       "precio": 4.49,
-      "ingredientes": ["Mango", "Leche", "Azúcar"]
+      "ingredientes": ["Mango", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida4_gdkchg.webp"
     },
     {
       "id": 6,
       "nombre": "Bubble Tea Melón",
       "descripcion": "Bebida refrescante con pulpa de melón.",
       "precio": 4.49,
-      "ingredientes": ["Melón", "Leche", "Azúcar"]
+      "ingredientes": ["Melón", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     },
     {
       "id": 6,
       "nombre": "Bubble Tea Fresa",
       "descripcion": "Bebida refrescante con pulpa de fresa.",
       "precio": 4.49,
-      "ingredientes": ["Fresa", "Leche", "Azúcar"]
+      "ingredientes": ["Fresa", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     },
     {
       "id": 7,
       "nombre": "Bubble Tea Coco",
       "descripcion": "Bebida refrescante con pulpa de coco.",
       "precio": 4.49,
-      "ingredientes": ["Coco", "Leche", "Azúcar"]
+      "ingredientes": ["Coco", "Leche", "Azúcar"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     },
     {
       "id": 8,
@@ -189,7 +213,8 @@
         "Leche o té verde",
         "Jarabe de azúcar o miel (opcional)",
         "Perlas de tapioca (opcional)"
-      ]
+      ],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
     }
   ]
 }
