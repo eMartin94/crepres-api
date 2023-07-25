@@ -6,7 +6,7 @@
       "descripcion": "Deliciosos crepes rellenos de Nutella.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Nutella"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe1_w6sw6i.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe1_c5msit.webp"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "descripcion": "Deliciosos crepes rellenos de Chocolate.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Chocolate"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe2_ekfkrk.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe2_auchsa.webp"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "descripcion": "Deliciosos crepes rellenos de Vainilla.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Vainilla"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe3_nvofsh.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "descripcion": "Deliciosos crepes rellenos de Fresa.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Fresa"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe3_dynfp5.webp"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "descripcion": "Deliciosos crepes rellenos de Manzana.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Manzana"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "descripcion": "Deliciosos crepes rellenos de Pina.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Pina"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "descripcion": "Deliciosos crepes rellenos de Naranja.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Naranja"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "descripcion": "Deliciosos crepes rellenos de Durazno.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Durazno"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "descripcion": "Deliciosos crepes rellenos de Platano.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Platano"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "descripcion": "Deliciosos crepes rellenos de Pistacho.",
       "precio": 5.99,
       "ingredientes": ["Crepes", "Pistacho"],
-      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405913/crepes/crepes/crepe4_f6zeop.webp"
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244027/crepes/crepes/crepe_lfarga.webp"
     }
   ],
 
@@ -215,6 +215,65 @@
       "precio": 4.49,
       "ingredientes": ["Melón", "Leche", "Azúcar"],
       "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1689405926/crepes/bebidas/bebida1_uddzvb.webp"
+    }
+  ],
+
+  "waffles": [
+    {
+      "id": 1,
+      "nombre": "Waffle Fresa",
+      "descripcion": "Waffle con fresa bañado en fudge",
+      "precio": 13.0,
+      "ingredientes": ["Fresa", "Fudge", "Chantilly"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle2_vhgn3y.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Waffle Tapioca",
+      "descripcion": "Waffle con tapioca y fresa",
+      "precio": 13.0,
+      "ingredientes": ["Tapicoca", "Fresa"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle3_us7wsy.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Waffle Helado",
+      "descripcion": "Waffle con bolas de helado",
+      "precio": 13.0,
+      "ingredientes": ["Helado Chocolate", "Helado Vainilla"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle1_b4mi7g.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Waffle Simple",
+      "descripcion": "Waffle bañado en fudge",
+      "precio": 13.0,
+      "ingredientes": ["Fudge"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle_gb2y6s.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Waffle Simple 1",
+      "descripcion": "Waffle bañado en fudge",
+      "precio": 13.0,
+      "ingredientes": ["Fudge"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle_gb2y6s.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Waffle Simple 2",
+      "descripcion": "Waffle bañado en fudge",
+      "precio": 13.0,
+      "ingredientes": ["Fudge"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle_gb2y6s.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Waffle Simple 3",
+      "descripcion": "Waffle bañado en fudge",
+      "precio": 13.0,
+      "ingredientes": ["Fudge"],
+      "image": "https://res.cloudinary.com/dwweg4aud/image/upload/v1690244694/crepes/waffles/waffle_gb2y6s.webp"
     }
   ]
 }
